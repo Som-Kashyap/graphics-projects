@@ -15,7 +15,6 @@ Currently learning computer graphics fundamentals alongside DSA and core CS conc
 - Multiple objects
 - Window rendering
 
-Location: /movingballs
 
 ---
 
