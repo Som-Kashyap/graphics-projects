@@ -39,3 +39,21 @@
 
 # debug information files
 *.dwo
+# compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# build folders
+build/
+bin/
+Debug/
+Release/
+
+# VS Code settings
+.vscode/
+
+# system junk
+.DS_Store
+Thumbs.db
